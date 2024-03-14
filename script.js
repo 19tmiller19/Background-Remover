@@ -5,7 +5,7 @@ const outputCanvas = document.getElementById('outputCanvas')
 const downloadBtn = document.getElementById('downloadBtn');
 
 
-const API_KEY = 'ouwi2VQxxPUuDS4KNMtyCwdN';
+const API_KEY = 'API Key Goes Here';
 
 //50 credits per month
 
